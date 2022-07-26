@@ -65,7 +65,7 @@ import (
 	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/char_reverser" // 英文字符翻转
 	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/choose"        // 选择困难症帮手
 	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/chouxianghua"  // 说抽象话
-	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/coser"         // 三次元小姐姐
+	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/coser"          三次元小姐姐
 	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/cpstory"       // cp短打
 	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/danbooru"      // DeepDanbooru二次元图标签识别
 	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/diana"          嘉心糖发病
@@ -98,7 +98,7 @@ import (
 	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/nsfw"          // nsfw图片识别
 	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/omikuji"       // 浅草寺求签
 	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/qqwife"        // 一群一天一夫一妻制群老婆
-	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/reborn"        // 投胎
+	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/reborn"         投胎
 	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/runcode"       // 在线运行代码
 	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/saucenao"      // 以图搜图
 	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/scale"         // 叔叔的AI二次元图片放大
@@ -110,13 +110,13 @@ import (
 	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/tiangou"        舔狗日记
 	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/tracemoe"       搜番
 	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/translation"   // 翻译
-	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/vtb_quotation" // vtb语录
+	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/vtb_quotation"  vtb语录
 	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/wangyiyun"      网易云音乐热评
-	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/word_count"    // 聊天热词
+	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/word_count"     聊天热词
 	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/wordle"        // 猜单词
 	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/ymgal"         // 月幕galgame
 
-	// _ "github.com/FloatTech/ZeroBot-Plugin/plugin/wtf"            // 鬼东西
+	 _ "github.com/FloatTech/ZeroBot-Plugin/plugin/wtf"             鬼东西
 
 	//                               ^^^^                               //
 	//                          ^^^^^^^^^^^^^^                          //
