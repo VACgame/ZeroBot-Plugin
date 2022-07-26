@@ -25,13 +25,13 @@ import (
 	//                          vvvvvvvvvvvvvv                          //
 	//                               vvvv                               //
 
-	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/chat" // 基础词库
+	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/chat"  基础词库
 
-	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/sleep_manage" // 统计睡眠时间
+	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/sleep_manage"  统计睡眠时间
 
 	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/atri" // ATRI词库
 
-	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/manager" // 群管
+	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/manager"  群管
 
 	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/thesaurus" // 词典匹配回复
 
@@ -90,8 +90,8 @@ import (
 	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/moyu"          // 摸鱼
 	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/moyu_calendar" // 摸鱼人日历
 	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/music"         // 点歌
-	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/nativesetu"    // 本地涩图
-	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/nativewife"    // 本地老婆
+	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/nativesetu"     本地涩图
+	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/nativewife"     本地老婆
 	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/nbnhhsh"       // 拼音首字母缩写释义工具
 	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/nihongo"       // 日语语法学习
 	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/novel"         // 铅笔小说网搜索
